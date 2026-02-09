@@ -1,10 +1,10 @@
-# Blueshift Native AMM
+#Pinocchio Native AMM
 
 Solana 区块链上的原生自动做市商（AMM）实现，采用常数乘积曲线模型。
 
 ## 项目概述
 
-Blueshift Native AMM 是一个基于 Solana 区块链的去中心化交易协议实现，使用 Pinocchio 框架开发。该项目实现了流动性池和代币交换功能，支持用户提供流动性和进行代币交换操作。
+Pinocchio Native AMM 是一个基于 Solana 区块链的去中心化交易协议实现，使用 Pinocchio 框架开发。该项目实现了流动性池和代币交换功能，支持用户提供流动性和进行代币交换操作。
 
 ## 主要特性
 
